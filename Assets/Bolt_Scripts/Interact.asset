@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: Interact
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":284.1445,"y":131.3444},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"bcda9652-2675-4f6a-9bed-0a0dd52d22c4","$version":"A","$type":"Bolt.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"915505a3-78dc-4294-ad25-77eb128a3003","$version":"A","$type":"Bolt.Update"},{"chainable":false,"member":{"name":"OverlapBox","parameterTypes":["UnityEngine.Vector3","UnityEngine.Vector3","UnityEngine.Quaternion","System.Int32","UnityEngine.QueryTriggerInteraction"],"targetType":"UnityEngine.Physics","targetTypeName":"UnityEngine.Physics","$version":"A"},"defaultValues":{"%center":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"%halfExtents":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"%layerMask":{"$content":0,"$type":"System.Int32"},"%queryTriggerInteraction":{"$content":"UseGlobal","$type":"UnityEngine.QueryTriggerInteraction"}},"position":{"x":75.0,"y":60.0},"guid":"deb17103-a491-442a-8d54-715c7c4fb18f","$version":"A","$type":"Bolt.InvokeMember"}],"$version":"A"}}'
+    _objectReferences: []
